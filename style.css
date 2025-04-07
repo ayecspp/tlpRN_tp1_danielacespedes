@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 50px;
+}
+
+input, button {
+  margin: 10px;
+  padding: 8px;
+  font-size: 16px;
+}
+
+button {
+  background-color: lightblue;
+  border: 1px solid #333;
+  cursor: pointer;
+}
+
+#respuesta {
+  margin-top: 20px;
+  font-size: 18px;
+}
